@@ -8,4 +8,4 @@
 data-raw/*.json
 
 # Ignore all files in the 'figures' directory
-figures/
+figures/*.png
